@@ -7,7 +7,7 @@ Kumpulan eksplorasi desain antarmuka (UI/UX) dan prototipe interaktif yang dibua
 ## 1. D'Aquila — Landing Page
 Desain landing page modern dengan antarmuka elegan untuk kebutuhan presentasi properti dan real estat.
 
-![Porto Aquila](assets/PORTO%20AQUILA.png)
+![Porto Aquila](assets/PORTO%20AQUILA.png?v=2)
 
 * 🔗 **Figma Project:** [Lihat Desain D'Aquila di Figma](https://www.figma.com/design/QWZZuno6qC4GPTyW1H4JJZ/Untitled?node-id=0-1&t=3rqfOijlKgPq5oBZ-1)
 
